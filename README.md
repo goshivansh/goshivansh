@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Shivansh Gupta
 
-<!--
-**goshivansh/goshivansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+I enjoy building websites and turning ideas into working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### About Me
+
+- 🌐 Strong foundation in **HTML, CSS & JavaScript**
+- 🚀 Interested in **Frontend & Full-Stack Development**
+- 🛠️ Experience deploying websites for real-world use
+
+---
+
+#### Technologies
+
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react" /></p>
+
+---
+
+#### Projects
+
+- **🛍️ TIJ Catalog:** Static catalogue website built for a shop.
+
+  - **Built with:** HTML | CSS | JavaScript
+
+  - 🔗 https://tijcatalog.netlify.app/
